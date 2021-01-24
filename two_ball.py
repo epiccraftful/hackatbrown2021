@@ -1,7 +1,7 @@
 # -----------------------------------------------------------------------------
 #
 # Two Ball
-# version: 1.0
+# version: 1.0 :)
 # Language - Python
 # Modules - pygame, sys, random, math
 #
